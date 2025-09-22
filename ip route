@@ -1,0 +1,5 @@
+Router# show ip route
+Codes: C - connected, S - static, O - OSPF, E - EGP, B - BGP
+Gateway of last resort is 131.119.254.240 to network 129.140.0.0
+O E2 150.150.0.0 [160/5] via 131.119.254.6, 0:01:00, Ethernet2
+C 172.19.64.0 255.255.255.0 is directly connected, Ethernet0
