@@ -56,7 +56,7 @@ Below are the most commonly used **Application Layer protocols**, their **purpos
 * **Usage Scenarios:**
 
   * Resolving website addresses before initiating connections.
-  * Email delivery (MX record resolution).
+  * Email delivery (MX record resolutions).
   * Load balancing using multiple IP addresses.
   * Internal corporate network name resolution.
 
